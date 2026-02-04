@@ -1,1 +1,1 @@
-# notes-gitGIT commands
+# GIT commands
